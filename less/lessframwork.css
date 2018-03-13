@@ -1,0 +1,263 @@
+/*		Default Layout: 992px. 
+		Gutters: 24px.
+		Outer margins: 48px.
+		Leftover space for scrollbars @1024px: 32px.
+-------------------------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8      9      10
+px      68    160    252    344    436    528    620    712    804    896    */
+.document_list{
+	width:1018px;
+	margin: 0 auto;
+}
+.legel_img{
+	width:465px;
+	height:550px;
+	margin-bottom:10px;
+	box-shadow: 1px 1px 6px 8px rgb(221, 221, 221);
+	margin: 15px;
+	
+}
+.et_pb_column.et_pb_column_4_4.et_pb_column_12.et_pb_css_mix_blend_mode_passthrough.et-last-child {
+	width: 1336px;
+	margin-left: 119px;
+}
+.document {
+	height: 1414px;
+	width: 1030px;
+	margin: 0 auto;
+}
+
+.contact_area {
+	width: 1010px;
+	margin: 0 auto;
+	overflow:hidden;
+	padding: 60px 0px;
+}
+.contact_text{
+	width: 500px;
+}
+.contact_form{
+	width: 960px;
+}
+.text12{
+	width: 415px;
+}
+#txt_comments{
+	width: 415px;
+}
+.text8 {
+	font-size: 20px;
+}
+
+.our_service{
+	color: #f9002c;
+	margin-left: -453px;
+}
+
+
+
+
+
+/*		Tablet Layout: 768px.
+		Gutters: 24px.
+		Outer margins: 28px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.document_list {
+	width:960px;
+	margin: 0 auto;
+}
+.et_pb_column.et_pb_column_4_4.et_pb_column_12.et_pb_css_mix_blend_mode_passthrough.et-last-child {
+
+	margin-left: 20px;
+}
+.our_service{
+	color: #f9002c;
+	margin-left: 15px;
+}
+.legel_img{
+	width: 350px;
+height: 460px;
+margin-bottom:10px;
+box-shadow: 1px 1px 6px 8px rgb(221, 221, 221);
+margin: 15px;
+	
+}
+.document {
+	height: 1414px;
+	width: 765px;
+	margin: 0 auto;
+}
+
+.contact_area {
+	width: 850px;
+	margin: 0 auto;
+	overflow:hidden;
+	padding: 60px 0px;
+}
+.contact_text{
+	width: 400px;
+}
+.contact_img{
+	width: 400px;
+}
+.contact_form{
+	width: 911px;
+}
+.text8 {
+	font-size: 18px;
+}
+.text12{
+	width: 415px;
+}
+#txt_comments{
+	width: 415px;
+}
+.our_service{
+	color: #f9002c;
+	margin-left: 15px;
+}
+
+}
+
+
+
+/*		Mobile Layout: 320px.
+		Gutters: 24px.
+		Outer margins: 34px.
+		Inherits styles from: Default Layout.
+---------------------------------------------
+cols    1     2      3
+px      68    160    252    */
+
+@media only screen and (max-width: 767px) {
+.document_list {
+width:320px;
+	margin: 0 auto;
+}
+.legel_img{
+	width:320px;
+	height:550px;
+	margin-bottom:10px;
+	box-shadow: 1px 1px 6px 8px rgb(221, 221, 221);
+	margin: 15px;
+}
+.document {
+	height: 1606px;
+	width: 320px;
+	margin: 0 auto;
+}
+.contact_area {
+	width: 350px;
+	margin: 0 auto;
+	overflow:hidden;
+	padding: 60px 0px;
+}
+.contact_text{
+width: 300px;
+margin: 0 auto;
+    margin-left: auto;
+margin-left: 42px;
+}
+.contact_img{
+	width: 350px;
+margin-left: 33px;
+margin-top: 31px;
+}
+
+.contact_form{
+	width: 475px;
+}
+.text12{
+	width: 187px;
+}
+#txt_comments{
+	width: 187px;
+}
+.text8 {
+	font-size: 13px;
+}
+.our_service{
+	color: #f9002c;
+	margin-left: 0px;
+}
+.et_pb_column.et_pb_column_4_4.et_pb_column_12.et_pb_css_mix_blend_mode_passthrough.et-last-child {
+	margin-left: 0px;
+}
+}
+
+/*		Wide Mobile Layout: 480px.
+		Gutters: 24px.
+		Outer margins: 22px.
+		Inherits styles from: Default Layout, Mobile Layout.
+------------------------------------------------------------
+cols    1     2      3      4      5
+px      68    160    252    344    436    */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.document_list {
+	width:480px;
+	margin: 0 auto;
+}
+.et_pb_column.et_pb_column_4_4.et_pb_column_12.et_pb_css_mix_blend_mode_passthrough.et-last-child {
+	margin-left: 20px;
+}
+.our_service{
+	color: #f9002c;
+	margin-left: -90px;
+}
+.legel_img{
+	width: 566px;
+height: 679px;
+margin-bottom:10px;
+box-shadow: 1px 1px 6px 8px rgb(221, 221, 221);
+margin: 15px;
+}
+.document {
+	height: 2190px;
+	width: 600px;
+	margin: 0 auto;
+}
+
+.contact_area {
+	width: 550px;
+	margin: 0 auto;
+	overflow:hidden;
+	padding: 60px 0px;
+}
+.contact_text{
+		width: 450px;
+margin: 0 auto;
+margin-left: 90px;
+margin-top: 15px;
+}
+.contact_img{
+	width: 450px;
+margin: 0 auto;
+margin-right: 20px;
+margin-top: 27px;
+}
+
+.contact_form{
+	width: 866px;
+}
+.text12{
+	width: 324px;
+}
+#txt_comments{
+	width: 324px;
+}
+.text8 {
+	font-size: 15px;
+}
+.our_service{
+	color: #f9002c;
+	margin-left: -91px;
+}
+
+}
+

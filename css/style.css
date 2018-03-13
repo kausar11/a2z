@@ -1,0 +1,127 @@
+
+.change{
+	padding-right: 18px;
+margin-right: -109px;
+}
+/*.et_pb_module.et_pb_blog_grid_wrapper.et_pb_blog_0 {
+	width: 750px;
+	margin-left: 150px;
+}*/
+.et_pb_column.et_pb_column_4_4.et_pb_column_12.et_pb_css_mix_blend_mode_passthrough.et-last-child {
+	width: 1336px;
+}
+.et_pb_text_inner {
+	color: #000;
+	font-size: 17px;
+}
+.et_pb_row.et_pb_row_2 {
+	padding-top: 102px;
+}
+
+.document {
+	
+	height: 1414px;
+}
+.entry-content tr td, body.et-pb-preview #main-content .container tr td {
+	padding: 6px 11px;
+	border-top: 1px solid #eee;
+}
+.et_pb_section_3.et_pb_section {
+	background-color: #EEEEEE;
+}
+.document_bg {
+	background: #ededed;
+	padding: 79px 5px;
+}
+.document_bg_1 {
+	padding: 35px 0px;
+}
+.about {
+	width: 1026px;
+	margin: 0 auto;
+	font-size: 19px;
+}
+.et_pb_code.et_pb_module.et_pb_code_0 {
+	width: 941px;
+}
+.my_site_map {
+	width: 940px;
+	height: 550px;
+}
+
+.contact_text {
+	width: 500px;
+	float: left;
+}
+.contact_img {
+	width: 500px;
+	float: right;
+}
+.contact_form {
+	
+	margin: 0 auto;
+}
+
+.text12 {
+	
+height: 40px;
+border: 2px solid #ededed;
+margin-top: 5px;
+padding-left: 5px;
+font-style: italic;
+font-size: 14px;
+}
+.text12:focus {
+	
+	border: 1px solid #0a7dc6;
+box-shadow: 0px 0px 4px 1px #095dbc;
+}
+#txt_comments{
+	
+height: 130px;
+border: 2px solid #ededed;
+margin-top: 5px;
+padding-top: 50px;
+}
+#txt_comments:focus {
+	
+	border: 1px solid #0a7dc6;
+box-shadow: 0px 0px 4px 1px #095dbc;
+}
+#myBtn {
+	padding: 10px 35px;
+	background: #65b2f5;
+	color: white;
+	border-radius: 5px;
+	
+	cursor:pointer;
+	border:none;
+}
+.mobile_menu_bar.mobile_menu_bar_toggle::before{
+	content:"≡";
+	font-size:35px;
+	top:0;
+	left:0;
+}
+.et_pb_scroll_top.et-pb-icon.et-visible::before {
+	content: "^";
+	font-size: 40px;
+}
+#et-secondary-nav .menu-item-has-children > a:first-child::after, #top-menu .menu-item-has-children > a:first-child::after {
+	position: absolute;
+	top: 0;
+	right: 0;
+	font-family: ETmodules;
+	font-size: 12px;
+	font-weight: 500;
+	content: "▼";
+	color: #353131;
+}
+#logo {
+	max-height: 100%;
+}
+#top-menu li {
+	display: inline-block;
+	padding-right: 5px;
+	font-size: 14px;
+}
